@@ -1,4 +1,9 @@
 # Practise Loop, functions & Math Problems
+<p align="center">
+  <a href="https://youtu.be/MLVJWmG2iYI">
+  <img src="https://img.youtube.com/vi/MLVJWmG2iYI/0.jpg" alt="Loops in JavaScript | Math Interview Problems Solved" />
+  </a>
+</p>
 
 ### Question 1: Sum of all natural numbers from 1 to n
 

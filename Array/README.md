@@ -1,4 +1,9 @@
 # Array Manipulation in JavaScript: From Basics to Advanced
+<p align="center">
+  <a href="https://youtu.be/y1vuYL7DtPU">
+  <img src="https://img.youtube.com/vi/y1vuYL7DtPU/0.jpg" alt="Must know JavaScript Array Methods | Frontend DSA Interview Questions" />
+  </a>
+</p>
 
 ### How do you create an empty array in JavaScript?
 ```javascript
