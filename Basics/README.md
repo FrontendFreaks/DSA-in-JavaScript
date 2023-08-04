@@ -115,7 +115,7 @@ console.log(missingNumber([3,0,1])); // 2
 console.log(missingNumber([9,6,4,2,3,5,7,0,1])); // 8
 ```
 
-# Practice Questions
+## Practice Questions
 
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)

@@ -194,7 +194,7 @@ const positiveNumber = x.find((ele, i) => ele > 0);
 console.log(positiveNumber);
 ```
 
-# Practice Questions
+## Practice Questions
 
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
