@@ -23,4 +23,6 @@
 ## Curriculum
 
 - [Loops in JavaScript](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Basics/README.md)
+- [Time Complexity: Big O notation](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Time%20Complexity/README.md)
 - [Array](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Array/README.md)
+- [Polyfill of Map, Filter & Reduce](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Array/Polyfill.md)

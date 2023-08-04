@@ -6,9 +6,7 @@
   </a>
 </p>
 
-Sure, here's the complete text converted into Markdown:
-
-## Map in JavaScript
+### Map in JavaScript
 
 ```javascript
 const employees = [
@@ -18,8 +16,12 @@ const employees = [
 ];
 
 const employeesName = employees.map(employee => employee.name);
+console.log(myEmployeesName); // ["John", "Sarah", "Michael"]
+```
 
-// Polyfill of map()
+### Polyfill of map()
+
+```javascript
 if (!Array.prototype.myMap) {
     Array.prototype.myMap = function (callback) {
         const result = [];
@@ -35,7 +37,7 @@ const myEmployeesName = employees.myMap(employee => employee.name);
 console.log(myEmployeesName); // ["John", "Sarah", "Michael"]
 ```
 
-## Filter In JavaScript
+### Filter In JavaScript
 
 ```javascript
 const products = [
@@ -45,8 +47,15 @@ const products = [
 ];
 
 const availableProducts = products.filter(product => product.inStock);
+// [
+//     { name: 'iPhone', price: 999, inStock: true },
+//     { name: 'Google Pixel', price: 799, inStock: true },
+// ]
+```
 
-// Polyfill of filter()
+### Polyfill of filter()
+
+```javascript
 if (!Array.prototype.myFilter) {
     Array.prototype.myFilter = (callback) => {
         const result = [];
@@ -68,7 +77,7 @@ console.log(availableProducts);
 // ]
 ```
 
-## Reduce in JavaScript
+### Reduce in JavaScript
 
 ```javascript
 const orders = [
@@ -81,7 +90,12 @@ const totalAmount = orders.reduce(function (accumulator, order) {
     return accumulator + order.price * order.quantity;
 }, 0);
 
-// Polyfill of reduce()
+console.log(totalAmount); // 5294
+```
+
+### Polyfill of reduce()
+
+```javascript
 if (!Array.prototype.myFilter) {
     Array.prototype.myReduce = (callback, initialValue) => {
         let accumulator = initialValue === undefined ? this[0] : initialValue;
@@ -96,7 +110,7 @@ const myTotalAmount = orders.myReduce(function (accumulator, order) {
     return accumulator + order.price * order.quantity;
 }, 0);
 
-console.log(totalAmount);
+console.log(totalAmount); // 5294
 ```
 
 ### Question 1: Find the longest word length
