@@ -1,63 +1,91 @@
-# String Methods in JavaScript
+# String In JavaScript
 
-### charAt()
+<p align="center">
+  <a href="https://youtube.com/live/Unc365YFdf4">
+  <img src="https://img.youtube.com/vi/Unc365YFdf4/0.jpg" alt="String In JavaScript" />
+  </a>
+</p>
+
+### Length of a String
 ```javascript
-const charAtIndex = "Hello".charAt(1); // Output: "e"
+let firstName = "Vaishali";
+console.log(firstName.length);
 ```
 
-### concat()
+### Access String Element
 ```javascript
-const concatenated = "Hello".concat(" World"); // Output: "Hello World"
+console.log(firstName.charAt(2)); // i
+console.log(firstName[2]); // i
+console.log(firstName.charCodeAt(2)); // 115 (Ascii Code)
 ```
 
-### toUpperCase()
+### Check Presence of Character
 ```javascript
-const upperCaseString = "hello".toUpperCase(); // Output: "HELLO"
+console.log(firstName.includes("r")); // false (& if present it return true)
+console.log(firstName.indexOf("i")); // 2 (& if not present it return -1)
+console.log(firstName.lastIndexOf("i")); // 7 
 ```
 
-### toLowerCase()
+### Compare Two Strings
 ```javascript
-const lowerCaseString = "HeLLo".toLowerCase(); // Output: "hello"
+let anotherName = "Vishal";
+console.log(firstName.localeCompare(anotherName)); // -1 (& if strings are equal it return 0)
 ```
 
-### substring()
+### Replace Substring
 ```javascript
-const subString = "JavaScript".substring(4, 10); // Output: "Script"
+const str = "Vishal is Best Frontend Developer. Vishal is Best Developer. ";
+console.log(str.replace("Vishal", "Sujit")); // "Sujit is Best Frontend Developer. Vishal is Best Developer. "
+console.log(str.replaceAll("Vishal", "Sujit")); // "Sujit is Best Frontend Developer. Sujit is Best Developer. "
 ```
 
-### replace()
+### Substring of a String
 ```javascript
-const replacedString = "Hello, name!".replace("name", "John"); // Output: "Hello, John!"
+console.log(str.substring(6, 30)); 
+console.log(str.slice(-10, -1));
 ```
 
-### split()
+### Split and Join
 ```javascript
-const splitArray = "apple,banana,grape".split(","); // Output: ["apple", "banana", "grape"]
+console.log(str.split(""));
+const subString = str.split(" ");
+console.log(subString.join(" "));
 ```
 
-### indexOf()
+### String Start and End
 ```javascript
-const index = "JavaScript".indexOf("Script"); // Output: 4
+console.log(str.startsWith("Vishal")); // true
+console.log(str.endsWith("Developer")); // true
 ```
 
-### endsWith()
+### Trim and Case Conversion
 ```javascript
-const endsWithWorld = "Hello, world".endsWith("world"); // Output: true
+const trimStr = str.trim();
+const trimStrStart = str.trimStart();
+const trimStrEnd = str.trimEnd();
+console.log(trimStr, trimStr.length);
+console.log(str.toLowerCase());
+console.log(str.toUpperCase());
 ```
 
-### startsWith()
+### Convert Number and Object to String
 ```javascript
-const startsWithHello = "Hello, world".startsWith("Hello"); // Output: true
+const num = 123;
+console.log(num, num.toString());
+
+const obj = {
+    name: "Vishal",
+    course: "DSA with Vishal"
+};
+console.log(obj, JSON.stringify(obj));
 ```
 
-### includes()
+### Concatenate Strings
 ```javascript
-const includesWorld = "Hello, world".includes("world"); // Output: true
-```
-
-### trim()
-```javascript
-const trimmedString = "   Hello, world   ".trim(); // Output: "Hello, world"
+const lastName = "Rajput";
+console.log(firstName + lastName);
+console.log(`${firstName} ${lastName} is a Best Developer`);
+console.log(firstName.concat(lastName, " is a", " Best"));
 ```
 
 ## Practice Questions
