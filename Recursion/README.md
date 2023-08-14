@@ -45,7 +45,7 @@ function fibo(n){
 console.log(fibo(5));
 ```
 
-### Practice Questions (solve using recursion):
+## Practice Questions (solve using recursion):
 
 - Check whether a string is palindrome or not
 - Create pow(x, n) function which returns x^n

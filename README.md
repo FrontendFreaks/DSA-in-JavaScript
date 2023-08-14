@@ -28,3 +28,4 @@
 - [Polyfill of Map, Filter & Reduce](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Array/Polyfill.md)
 - [String](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/String/README.md)
 - [Recursion](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Recursion/README.md)
+- [Linear & Binary Search](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Searching%20Algorithms/README.md)
