@@ -109,6 +109,7 @@ const floorCeil = (arr, target) => {
 
     return [ceil, floor]
 }
+```
 
 ## Practice Questions
 
