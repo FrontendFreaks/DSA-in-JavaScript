@@ -29,3 +29,4 @@
 - [String](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/String/README.md)
 - [Recursion](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Recursion/README.md)
 - [Linear & Binary Search](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Searching%20Algorthims/README.md)
+- [Objects](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Objects/README.md)
