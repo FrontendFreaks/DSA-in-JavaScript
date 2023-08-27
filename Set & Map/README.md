@@ -1,5 +1,11 @@
 # Map, WeakMap, Set, WeakSet in JavaScript
 
+<p align="center">
+  <a href="https://youtube.com/live/oxpVW_HSqvM">
+  <img src="https://img.youtube.com/vi/oxpVW_HSqvM/0.jpg" alt="Set & Map In JavaScript" />
+  </a>
+</p>
+
 ## Set in JavaScript:
 
 ```javascript
@@ -36,11 +42,11 @@ mySet.clear();
 const myMap = new Map();
 
 // Adding key-value pairs to the Map
-myMap.set("name", "John");
-myMap.set("age", 30);
+myMap.set("name", "Vishal");
+myMap.set("age", 21);
 
 // Getting a value using a key
-console.log(myMap.get("name")); // John
+console.log(myMap.get("name")); // Vishal
 
 // Checking if a key exists
 console.log(myMap.has("age")); // true
