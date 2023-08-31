@@ -31,11 +31,11 @@
 - [Linear & Binary Search](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Searching%20Algorthims/README.md)
 - [Objects](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Objects/README.md)
 - [Sorting](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Sorting/README.md)
-- [Set & Map](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/tree/main/Set%20%26%20Map)
+- [Set & Map](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Set%20%26%20Map/README.md)
+- [Linked List](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/tree/main/Linked%20%List/README.md)
 
 ## Upcoming Topics
 
-- Linked List
 - Stack
 - Queue
 - Binary Tree
