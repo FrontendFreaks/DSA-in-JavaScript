@@ -33,10 +33,10 @@
 - [Sorting](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Sorting/README.md)
 - [Set & Map](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Set%20%26%20Map/README.md)
 - [Linked List](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Linked%20List/README.md)
+- [Stack](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Stack/README.md)
 
 ## Upcoming Topics
 
-- Stack
 - Queue
 - Binary Tree
 - Binary Search Tree

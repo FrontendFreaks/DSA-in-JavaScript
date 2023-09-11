@@ -159,13 +159,6 @@ console.log(list.print()) // 43->50
 
 ## Practice Questions:
 
-**Note**: You can find solutions of all these problems in [this playlist](https://www.youtube.com/playlist?list=PLSH9gf0XETourRyZW56Rdh9e0Phx-AJM5)
-
-Before checking the solutions, challenge yourself to solve the problems on your own. If you're stuck, watch the solution video up to the intuition part. Then, code it yourself before watching the complete solution. 
-
-This approach builds solid problem-solving skills.
-
-
 1. [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 2. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 3. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -182,3 +175,9 @@ This approach builds solid problem-solving skills.
 14. [Reorder List](https://leetcode.com/problems/reorder-list/)
 15. [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 16. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+**Note**: You can find solutions of all these problems in [this playlist](https://www.youtube.com/playlist?list=PLSH9gf0XETourRyZW56Rdh9e0Phx-AJM5)
+
+Before checking the solutions, challenge yourself to solve the problems on your own. If you're stuck, watch the solution video up to the intuition part. Then, code it yourself before watching the complete solution. 
+
+This approach builds solid problem-solving skills.
