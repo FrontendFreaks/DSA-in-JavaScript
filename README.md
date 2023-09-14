@@ -34,10 +34,10 @@
 - [Set & Map](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Set%20%26%20Map/README.md)
 - [Linked List](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Linked%20List/README.md)
 - [Stack](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Stack/README.md)
+- [Queue](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal/blob/main/Queue/README.md)
 
 ## Upcoming Topics
 
-- Queue
 - Binary Tree
 - Binary Search Tree
 - Graph
