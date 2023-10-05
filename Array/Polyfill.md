@@ -123,7 +123,7 @@ const longestWordLength = words.reduce((maxLength, word) => {
     return currentLength > maxLength ? currentLength : maxLength;
 }, 0);
 
-console.log(longestWordLength); // Output: 12
+console.log(longestWordLength); // Output: 11
 ```
 
 ### Question 2: Find the longest word
