@@ -16,7 +16,7 @@ const employees = [
 ];
 
 const employeesName = employees.map(employee => employee.name);
-console.log(myEmployeesName); // ["John", "Sarah", "Michael"]
+console.log(employeesName); // ["John", "Sarah", "Michael"]
 ```
 
 ### Polyfill of map()
